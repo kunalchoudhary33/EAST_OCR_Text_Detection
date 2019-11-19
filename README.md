@@ -10,4 +10,11 @@ EAST scene text detector model can be downloaded from : https://github.com/oyyd/
 <br/>
 Python - 3.6.5<br/>
 OpenCV - 4.0.0<br/>
-Numpy - 1.13.1
+Numpy - 1.13.1<br/>
+
+<br/><br/>
+# Test image
+Sample output with a vertical text in an image. Accuracy can be increased with training with more dataset.
+
+
+![picture1](https://github.com/kunalchoudhary33/EAST_OCR_Text_Detection/blob/master/Capture.PNG)
